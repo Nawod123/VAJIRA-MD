@@ -7,9 +7,9 @@
 
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD=iY8WgBSR#5xTnAPcsrUAi4SWhMrJsvO1Gi9lSbShtSuRM-mkZ1Rg",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=iY8WgBSR#5xTnAPcsrUAi4SWhMrJsvO1Gi9lSbShtSuRM-mkZ1Rg"
         }
     },
          "buildpacks": [
